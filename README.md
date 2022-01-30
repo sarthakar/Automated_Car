@@ -9,4 +9,3 @@ I was working through Daniel Shiffman's The Nature of Code and wanted to try mak
 - Wheel DNA: Tells the car to rotate the wheel by a certain angle.
 
 <br />
-https://epiqueras.github.io/smartcars/
